@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radium" alt="Daily Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Daily Quote"/>
 </div>
 
 <br/>
@@ -39,12 +39,12 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChanduInjumalla&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanduInjumalla&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChanduInjumalla&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanduInjumalla&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChanduInjumalla&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChanduInjumalla&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
 
 <br/>
@@ -54,18 +54,18 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=bablu-resin-arts-ecommerce&theme=radium&hide_border=true&bg_color=0D1117" alt="E-Commerce" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=bablu-resin-arts-ecommerce&theme=github_dark&hide_border=true&bg_color=0D1117" alt="E-Commerce" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=The-Hollywood-Heist&theme=radium&hide_border=true&bg_color=0D1117" alt="Hollywood Heist" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=The-Hollywood-Heist&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Hollywood Heist" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=bengaluru-real-estate-analysis&theme=radium&hide_border=true&bg_color=0D1117" alt="Real Estate" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=bengaluru-real-estate-analysis&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Real Estate" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=duckdb-benchmark-dashboard&theme=radium&hide_border=true&bg_color=0D1117" alt="DuckDB" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=duckdb-benchmark-dashboard&theme=github_dark&hide_border=true&bg_color=0D1117" alt="DuckDB" />
     </td>
   </tr>
 </table>
