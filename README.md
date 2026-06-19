@@ -29,7 +29,7 @@
 ### 🛠️ Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,mysql,postgres,sqlite,firebase,git,github,vscode,figma,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,postgres,firebase,git,github,vscode,postman&perline=8" />
   </a>
 </p>
 
