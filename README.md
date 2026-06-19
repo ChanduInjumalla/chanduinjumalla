@@ -54,18 +54,26 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=bablu-resin-arts-ecommerce&theme=github_dark&hide_border=true&bg_color=0D1117" alt="E-Commerce" />
+      <a href="https://github.com/ChanduInjumalla/bablu-resin-arts-ecommerce">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=bablu-resin-arts-ecommerce&theme=github_dark&hide_border=true&bg_color=0D1117" alt="E-Commerce" />
+      </a>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=The-Hollywood-Heist&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Hollywood Heist" />
+      <a href="https://github.com/ChanduInjumalla/The-Hollywood-Heist">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=The-Hollywood-Heist&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Hollywood Heist" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=bengaluru-real-estate-analysis&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Real Estate" />
+      <a href="https://github.com/ChanduInjumalla/bengaluru-real-estate-analysis">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=bengaluru-real-estate-analysis&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Real Estate" />
+      </a>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=duckdb-benchmark-dashboard&theme=github_dark&hide_border=true&bg_color=0D1117" alt="DuckDB" />
+      <a href="https://github.com/ChanduInjumalla/duckdb-benchmark-dashboard">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ChanduInjumalla&repo=duckdb-benchmark-dashboard&theme=github_dark&hide_border=true&bg_color=0D1117" alt="DuckDB" />
+      </a>
     </td>
   </tr>
 </table>
